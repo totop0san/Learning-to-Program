@@ -1,0 +1,1 @@
+Command Promptcmd /c ver
